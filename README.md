@@ -18,8 +18,10 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
 
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-          
-          
+
+  <img align="center" height="50" width="120" src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" />  
+  
+  <img align="center" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
 
 </div>
 
